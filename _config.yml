@@ -31,8 +31,6 @@ github_username:  accessibels
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
-
-gems:
   - jekyll-remote-theme
 
 # Exclude from processing.
