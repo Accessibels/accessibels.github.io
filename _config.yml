@@ -28,7 +28,7 @@ twitter_username: accessibels
 github_username:  accessibels
 
 # Build settings
-remote_theme: benbalter/retlab
+remote_theme: brandoncardoso/hima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
