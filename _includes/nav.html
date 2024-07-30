@@ -1,0 +1,13 @@
+<div>
+  <!-- <h1 class="site-title">{{ site.title }}‍</h1> -->
+  <img src="/assets/Long Horizontal Text Logo.svg">
+    {% if site.nav-links %}
+    <nav>
+      <ul>
+        {% for link in site.nav-links %}
+        <li><a href="{{ link.url | prepend:site.url }}" title="Go to {{link.name}}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
+</div>
