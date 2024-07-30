@@ -94,7 +94,7 @@ p, li {
 #main-content-home
 {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
   align-content: flex-start;
@@ -103,11 +103,24 @@ p, li {
 #main-content-left
 {
   display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#main-content-left > h1
+{
+  font-size: 3rem;
 }
 
 #main-content-right
 {
   display: flex;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+
 }
 
 #nav-container  > h1 {
