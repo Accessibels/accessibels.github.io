@@ -100,12 +100,32 @@ p, li {
   align-content: flex-start;
 }
 
+@media only screen and (max-width: 600px) {
+  #main-content-home 
+  {
+    flex-flow: column wrap;
+  }
+
+  #main-content-left
+{
+  order: 2;
+}
+
+
+#main-content-right
+{
+  order: 1;
+}
+
+}
+
 #main-content-left
 {
   display: flex;
   width: 50%;
   justify-content: center;
   align-items: center;
+  order: 1;
 }
 
 
@@ -120,6 +140,7 @@ p, li {
   width: 50%;
   justify-content: center;
   align-items: center;
+  order: 2;
 
 }
 
