@@ -27,6 +27,14 @@ url: "https://accessibels.github.io" # the base hostname & protocol for your sit
 twitter_username: accessibels
 github_username:  accessibels
 
+nav-links:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Posts # index of blog posts
+    url: /posts
+
 # Build settings
 remote_theme: janessatran/laloyd
 plugins:
