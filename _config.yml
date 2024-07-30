@@ -36,7 +36,7 @@ nav-links:
     url: /posts
 
 # Build settings
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
+remote_theme: janessatran/laloyd
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -61,3 +61,44 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+nav-links:
+  - name: Home
+    url: /
+  - name: About
+    url: /about
+  - name: Writing
+    url: /writing
+
+# Conversion
+markdown            : kramdown
+highlighter         : rouge
+lsi                 : false
+excerpt_separator   : "\n\n"
+incremental         : false
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      is_post: true
+permalink: /:title
+
+# Where things are
+source              : .
+destination         : ./_site
+plugins_dir         : _plugins
+layouts_dir         : _layouts
+includes_dir        : _includes
+sass:
+  sass_dir: _sass
+  style: compressed
