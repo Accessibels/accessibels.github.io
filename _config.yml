@@ -36,7 +36,7 @@ nav-links:
     url: /posts
 
 # Build settings
-remote_theme: janessatran/laloyd
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
