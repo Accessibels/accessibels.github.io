@@ -1,4 +1,19 @@
----
-layout: default
----
-{{ content }}
+<!DOCTYPE html>
+  {% include head.html %}
+  <body>
+    <a href="#main-content-home" class="skip-link" title="Skip to main content link">Skip to main content</a>
+    <div class="page">
+      {% include nav.html %}
+      <div id="main-content-home">
+          <div id="main-content-left">
+            {{ content }}
+          </div>
+
+          <div id="main-content-right">
+            <img src="/assets/Square Logo.svg" alt="square logo for Accessibels. 4 Circles arranged in the shape of controller buttons. Up button is a pink game controller. Right button is the letter b. Down button is the letter a. Left button is a red sound wave">
+
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

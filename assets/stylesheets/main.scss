@@ -89,7 +89,25 @@ p, li {
 
 #main-content, #nav-container {
   // margin: 2%;
-  background-color: blue;
+}
+
+#main-content-home
+{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: flex-start;
+}
+
+#main-content-left
+{
+  display: flex;
+}
+
+#main-content-right
+{
+  display: flex;
 }
 
 #nav-container  > h1 {
