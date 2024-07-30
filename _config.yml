@@ -28,10 +28,11 @@ twitter_username: accessibels
 github_username:  accessibels
 
 # Build settings
-remote_theme: brandoncardoso/hima
+remote_theme: janessatran/laloyd
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
