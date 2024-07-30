@@ -67,8 +67,8 @@ nav-links:
     url: /
   - name: About
     url: /about
-  - name: Writing
-    url: /writing
+  - name: Posts
+    url: /posts
 
 # Conversion
 markdown            : kramdown
