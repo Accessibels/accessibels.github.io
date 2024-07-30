@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+# What is Accessibels?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Accessibels (a portmanteau of Accessibility and Decibels) is a blog dedicated to discussion and research around audio, accessibility and video games, as well as all the cool stuff found along the way!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Accessibels is run by Luke Child (@CitesAndSounds). 
