@@ -81,8 +81,10 @@ p, li {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  align-content: center;
   margin: auto;
-  width: 80%;
+  width: 60%;
   //max-width: 600px;
   // border: 1px solid;
 }
@@ -106,16 +108,16 @@ p, li {
     flex-flow: column wrap;
   }
 
-  #main-content-left
-{
-  order: 2;
-}
+    #main-content-left
+  {
+    order: 2;
+  }
 
 
-#main-content-right
-{
-  order: 1;
-}
+  #main-content-right
+  {
+    order: 1;
+  }
 
 }
 
