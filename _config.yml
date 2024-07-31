@@ -21,7 +21,7 @@
 title: accessibels
 email: accessibels@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a cool blog for audio, accessibility and video game research!
+  a cool blog for audio, accessibility and video game research.
 #baseurl: "accessibels.github.io" # the subpath of your site, e.g. /blog
 url: "https://accessibels.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: accessibels
