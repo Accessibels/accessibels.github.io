@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hey, you. You're finally awake. Copy"
-date:   2024-07-31 12:16:42 +0100
-categories: first about accessibels
+title:  "Lets give these different names"
+date:   2024-07-29 22:16:42 +0100
+categories: easy simple fun
 ---
-# Hey, you. You're finally awake.
+# That was easy!.
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
 

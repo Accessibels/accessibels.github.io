@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Hey, you. You're finally awake. Copy 2"
-date:   2024-07-29 22:16:42 +0100
+title:  "whoosh"
+date:   2024-07-31 12:16:42 +0100
 categories: first about accessibels
+tags: whoosh testing fun
 ---
-# Hey, you. You're finally awake.
+# whoosh.
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
 
