@@ -15,8 +15,9 @@
         </div>
       </div>
 
-      {% for post in site.posts limit:3 %}
       <h1>Latest Posts</h1>
+
+      {% for post in site.posts limit:3 %}
     <h2>
       <a href="{{post.url}}" title="Read {{post.title}}">{{post.title}}</a>
     </h2>
@@ -25,6 +26,7 @@
     </p>
     {{ post.content | strip_html | truncatewords: 30 }}
     <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
+    
     {% endfor %}
 
             
