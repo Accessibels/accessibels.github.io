@@ -121,16 +121,14 @@ p, li {
   font-size: 3rem;
 }
 
-#main-content-right
-{
+#main-content-right {
   width: 50%;
   align-content: center;
   order: 1;
   box-sizing: border-box;
   padding: 16px;
+  text-align: right
 }
-
-
 
 #main-content-left {
   width: 50%;
@@ -156,12 +154,15 @@ p, li {
 
   #main-content-left {
       order: 1;
-      width: 100%
+      width: 100%;
+      text-align: center;
+
   }
 
   #main-content-right {
       order: 0;
-      width: 100%
+      width: 100%;
+      text-align: center;
   }
 }
 
