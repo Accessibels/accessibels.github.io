@@ -94,11 +94,14 @@ p, li {
 #main-content-home
 {
   display: flex;
+  width: 100%;
   flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
   align-content: flex-start;
   text-align: center;
+  border: solid black;
+  padding: 16px;
 }
 
 @media only screen and (max-width: 900px) {
