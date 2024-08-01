@@ -98,6 +98,7 @@ p, li {
   justify-content: space-around;
   align-items: center;
   align-content: flex-start;
+  text-align: center;
 }
 
 @media only screen and (max-width: 900px) {
@@ -121,11 +122,11 @@ p, li {
 
 #main-content-left
 {
-  display: flex;
   width: 50%;
-  justify-content: center;
-  align-items: center;
+  align-content: center;
   order: 0;
+  box-sizing: border-box;
+  padding: 16px;
 }
 
 
@@ -136,12 +137,11 @@ p, li {
 
 #main-content-right
 {
-  display: flex;
   width: 50%;
-  justify-content: center;
-  align-items: center;
+  align-content: center;
   order: 1;
-
+  box-sizing: border-box;
+  padding: 16px;
 }
 
 #nav-container  > h1 {
