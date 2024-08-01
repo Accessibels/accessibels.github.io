@@ -105,20 +105,31 @@ p, li {
 }
 
 @media only screen and (max-width: 900px) {
-  #main-content-home 
+
+  .page
   {
-    flex-flow: column wrap;
+      width: 80%;
+      margin: default;
+      align-content:center;
+      align-items: center;
   }
 
-    #main-content-left
-  {
-    order: 1;
+    #main-content-home {
+        flex-flow:column wrap;
+        align-content:center;
+        justify-content: center;
+        width:100%;
+    }
+
+    #main-content-left {
+      order: 1;
+      width:100%;
+      
   }
 
-
-  #main-content-right
-  {
-    order: 0;
+  #main-content-right {
+      order: 0;
+      width: 100%;
   }
 
 }
