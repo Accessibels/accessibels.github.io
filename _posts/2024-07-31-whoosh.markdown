@@ -5,6 +5,7 @@ date:   2024-07-31 12:16:42 +0100
 categories: first about accessibels
 tags: whoosh testing fun
 imgURL: "/assets/testArt.png"
+imgALT: "Image link to article. Jerry the Grumpy Alien lands on a new planet. A digital painting."
 summary: "The first Accessibels blog ever! How exciting!"
 
 ---

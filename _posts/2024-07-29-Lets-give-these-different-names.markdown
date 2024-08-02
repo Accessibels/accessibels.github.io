@@ -4,6 +4,7 @@ title:  "Lets give these different names"
 date:   2024-07-29 22:16:42 +0100
 categories: easy simple fun
 imgURL: "/assets/Square%20Logo.svg"
+imgALT: "Image link to article. Jerry the Grumpy Alien lands on a new planet. A digital painting."
 summary: "The third Accessibels blog ever! How exciting!"
 
 ---
