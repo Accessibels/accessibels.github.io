@@ -4,6 +4,10 @@ title:  "Hey, you. You're finally awake."
 date:   2024-07-30 22:16:42 +0100
 categories: first about accessibels
 tag: first about accessibels
+imgURL: "/assets/Square%20Logo.svg"
+summary: "The second Accessibels blog ever! How exciting!"
+
+
 ---
 # Hey, you. You're finally awake.
 
