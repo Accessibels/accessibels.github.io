@@ -8,7 +8,7 @@ imgURL: "/assets/Square%20Logo.svg"
 summary: "The first Accessibels blog ever! How exciting!"
 
 ---
-![Logo](/assets/Square%20Logo.svg)
+![Logo](/assets/testArt.png)
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
 
