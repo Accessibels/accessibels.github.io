@@ -21,12 +21,12 @@
 
           <div id="main-content-center">
 
-            {{ post.content | strip_html | truncatewords: 100 }}
+            {{ post.summary | strip_html | truncatewords: 100 }}
               <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
             </div>
 
 
-          <div id="main-content-right">
+          <div id="main-content-right"> 
 
             <img style="width:100%" src="{{post.imgURL}}">
 
