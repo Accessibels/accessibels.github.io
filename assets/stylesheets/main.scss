@@ -124,24 +124,22 @@ p, li {
 
 
 #main-content-left {
-  width: 34%;
-  align-content: center;
+  width: 30%;
   text-align: left;
   box-sizing: border-box;
   padding: 16px
 }
 
-#main-content-left > h1
-{
+#main-content-left>h1 {
   font-size: 3rem;
+  margin:0
 }
 
-
 #main-content-right {
-  width: 66%;
-  align-content: center;
+  width: 70%;
   box-sizing: border-box;
   padding: 16px;
+  text-align: right
 }
 
 
