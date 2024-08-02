@@ -71,6 +71,15 @@ p, li {
   margin: 1.25rem 0;
 }
 
+.site-top
+{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
 .site-title , .post-title {
   font-size: 2.5rem;
   color: $main_title_color;
