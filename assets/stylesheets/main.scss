@@ -123,36 +123,36 @@ p, li {
 
 
 
-#main-content-left
-{
-  width: 50%;
+#main-content-left {
+  width: 33%;
   align-content: center;
-  order: 0;
+  text-align: left;
   box-sizing: border-box;
-  padding: 16px;
+  padding: 16px
 }
-
 
 #main-content-left > h1
 {
   font-size: 3rem;
 }
 
+#main-content-center
+{
+  width: 33%;
+  align-content: center;
+  box-sizing: border-box;
+  padding: 16px;
+}
+
 #main-content-right {
-  width: 50%;
+  width: 33%;
   align-content: center;
   box-sizing: border-box;
   padding: 16px;
   text-align: right
 }
 
-#main-content-left {
-  width: 50%;
-  align-content: center;
-  text-align: left;
-  box-sizing: border-box;
-  padding: 16px
-}
+
 
 @media only screen and (max-width: 900px) {
   .page {
@@ -172,6 +172,12 @@ p, li {
       text-align: center;
 
   }
+
+  #main-content-center
+{
+  width: 100%;
+      text-align: center;
+}
 
   #main-content-right {
       width: 100%;
