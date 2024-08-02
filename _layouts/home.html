@@ -20,14 +20,16 @@
           </div>
 
           <div id="main-content-center">
-            <img style="width:100%" src="/assets/Square Logo.svg">
+
+            {{ post.content | strip_html | truncatewords: 100 }}
+              <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
             </div>
 
 
           <div id="main-content-right">
 
-            {{ post.content | strip_html | truncatewords: 30 }}
-              <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
+            <img style="width:100%" src="{{post.imgURL}}">
+
 
         </div>
         {% endfor %}

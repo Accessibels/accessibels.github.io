@@ -4,8 +4,12 @@ title:  "whoosh"
 date:   2024-07-31 12:16:42 +0100
 categories: first about accessibels
 tags: whoosh testing fun
+imgURL: "assets/Square%20Logo.svg"
+
 ---
 # whoosh.
+
+![Logo](/assets/Square%20Logo.svg)
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
 
