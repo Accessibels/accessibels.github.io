@@ -15,7 +15,6 @@
                 <em>{{ post.date | date: '%B %d, %Y' }}</em>
               </p>
 
-              {% endfor %}
 
               
           </div>
@@ -26,6 +25,8 @@
               <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
 
         </div>
+        {% endfor %}
+
       </div>
 
       <h1>Recent Posts</h1>

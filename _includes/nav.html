@@ -1,5 +1,7 @@
 <div>
   <h1 class="site-title">{{ site.title }}‍</h1>
+  <img style="max-width: 50px;" src="/assets/Square Logo.svg" alt="square logo for Accessibels. 4 Circles arranged in the shape of controller buttons. Up button is a pink game controller. Right button is the letter b. Down button is the letter a. Left button is a red sound wave">
+
     {% if site.nav-links %}
     <nav>
       <ul>
@@ -7,7 +9,6 @@
         <li><a href="{{ link.url | prepend:site.url }}" title="Go to {{link.name}}">{{ link.name }}</a></li>
         {% endfor %}
       </ul>
-      <img style="max-width: 50px;" src="/assets/Square Logo.svg" alt="square logo for Accessibels. 4 Circles arranged in the shape of controller buttons. Up button is a pink game controller. Right button is the letter b. Down button is the letter a. Left button is a red sound wave">
 
     </nav>
     {% endif %}
