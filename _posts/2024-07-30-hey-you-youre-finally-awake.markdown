@@ -5,7 +5,9 @@ date:   2024-07-30 22:16:42 +0100
 categories: first about accessibels
 tag: first about accessibels
 imgURL: "/assets/Square%20Logo.svg"
+imgALT: "Image link to article. Jerry the Grumpy Alien lands on a new planet. A digital painting."
 summary: "The second Accessibels blog ever! How exciting!"
+
 
 
 ---
