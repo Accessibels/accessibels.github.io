@@ -141,7 +141,6 @@ p, li {
 #main-content-right {
   width: 50%;
   align-content: center;
-  order: 1;
   box-sizing: border-box;
   padding: 16px;
   text-align: right
@@ -151,7 +150,6 @@ p, li {
   width: 50%;
   align-content: center;
   text-align: left;
-  order: 0;
   box-sizing: border-box;
   padding: 16px
 }
@@ -170,21 +168,16 @@ p, li {
   }
 
   #main-content-left {
-      order: 1;
       width: 100%;
       text-align: center;
 
   }
 
   #main-content-right {
-      order: 0;
       width: 100%;
       text-align: center;
   }
 
-  .site-title, {
-    text-align: center
-    }
 }
 
 #nav-container  > h1 {
