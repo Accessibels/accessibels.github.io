@@ -4,7 +4,7 @@ title:  "whoosh"
 date:   2024-07-31 12:16:42 +0100
 categories: first about accessibels
 tags: whoosh testing fun
-imgURL: "/assets/Square%20Logo.svg"
+imgURL: "/assets/testArt.png"
 summary: "The first Accessibels blog ever! How exciting!"
 
 ---
