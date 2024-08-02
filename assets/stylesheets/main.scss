@@ -124,7 +124,7 @@ p, li {
 
 
 #main-content-left {
-  width: 33%;
+  width: 34%;
   align-content: center;
   text-align: left;
   box-sizing: border-box;
@@ -136,18 +136,9 @@ p, li {
   font-size: 3rem;
 }
 
-#main-content-center
-{
-  width: 33%;
-  align-content: center;
-  box-sizing: border-box;
-  padding: 16px;
-  text-align: left;
-
-}
 
 #main-content-right {
-  width: 33%;
+  width: 66%;
   align-content: center;
   box-sizing: border-box;
   padding: 16px;
@@ -174,11 +165,6 @@ p, li {
 
   }
 
-  #main-content-center
-{
-  width: 100%;
-      text-align: center;
-}
 
   #main-content-right {
       width: 100%;

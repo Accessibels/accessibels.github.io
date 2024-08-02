@@ -14,16 +14,11 @@
               <p>
                 <em>{{ post.date | date: '%B %d, %Y' }}</em>
               </p>
-
+              {{ post.summary | strip_html | truncatewords: 100 }}
+              <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
 
               
           </div>
-
-          <div id="main-content-center">
-
-            {{ post.summary | strip_html | truncatewords: 100 }}
-              <a href="{{post.url}}" title="Read {{post.title}}">Read More</a>
-            </div>
 
 
           <div id="main-content-right"> 
