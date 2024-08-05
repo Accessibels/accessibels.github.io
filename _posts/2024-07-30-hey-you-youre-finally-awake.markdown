@@ -3,8 +3,8 @@ layout: post
 title:  "Hey, you. You're finally awake."
 date:   2024-07-30 22:16:42 +0100
 categories: first about accessibels
-tag: first about accessibels
-imgURL: "/assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg"
+tags: first about accessibels
+imgURL: /assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg
 imgALT: "The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty foresr. Ralof says "Hey, you. You're finally awake."
 summary: "The first Accessibels blog ever! How exciting!"
 
@@ -27,7 +27,7 @@ My name is Luke, I'm a PhD student researching audio accessibility for games. If
 
 One of my favourite things from that game was the Clairvoyance spell; a wonderful spell that, in a game vast and as diverse as Skyrim, helped my foggy ND brain find its way around in lieu of strong navigational skills. Success!
 
-But I'm a sound designer. Sound, audio and music are my *\<ahem>* jam. And this little navigational tool in Skyrim might be awesome, but ultimately... it's silent. My years of audio training are booing condesendingly from the back of the room.
+But I'm a sound designer. Sound, audio and music are my *ahem* jam. And this little navigational tool in Skyrim might be awesome, but ultimately... it's silent. My years of audio training are booing condesendingly from the back of the room.
 
 And the annoying part is, all that information is *there* (be it a nav mesh, some wayfinding algorhithm or whatevs). Why not sonify it? Get a cheeky bit of spatial sound or audio marking or summin summin alongside that ghostly directional mist.
 
