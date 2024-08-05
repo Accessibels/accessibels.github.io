@@ -4,10 +4,12 @@ title:  "Hey, you. You're finally awake."
 date:   2024-07-30 22:16:42 +0100
 categories: first about accessibels
 tags: first about accessibels
-imgURL: /assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg
-imgALT: "The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty foresr. Ralof says "Hey, you. You're finally awake."
 summary: "The first Accessibels blog ever! How exciting!"
 
+images:
+    -url: /assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg
+    -alt: The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty forest. Ralof says "Hey, you. You're finally awake.
+    -title: Ralof from Skyrim finally awake
 
 
 ---
