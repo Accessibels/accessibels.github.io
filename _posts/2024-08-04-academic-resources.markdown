@@ -9,8 +9,6 @@ imgALT: "Image Link to Post. A collage of posterised academic images featuring p
 summary: "A collection of resources from academic sources!"
 
 ---
-![Image Link to Post. A collage of posterised academic images featuring poster presentations and a graduate holding their dog at graduation. Text Reads 'Academic Resources'](/assets/2024-07-30-academic-resources/Post Photo.jpg "Graduate Collage")
-
 ![Image Link to Post. A collage of posterised academic images featuring poster presentations and a graduate holding their dog at graduation. Text Reads 'Academic Resources'](/assets/2024-08-04-academic-resources/Post%20Photo.jpg "Graduate Collage")
 
 
