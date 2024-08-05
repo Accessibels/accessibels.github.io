@@ -9,6 +9,7 @@ layout: default
 
     <h2>
       <a href="{{post.url}}" title="Read {{post.title}}">{{post.title}}</a>
+    </h2>
 
         <p>
           <em>{{ post.date | date: '%B %d , %Y' }}</em>
@@ -16,7 +17,6 @@ layout: default
         {{ post.summary | strip_html | truncatewords: 30 }}
         <br><br>
 
-    </h2>
 
   </div>
 
