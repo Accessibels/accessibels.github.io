@@ -11,7 +11,7 @@ images:
     -alt: The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty forest. Ralof says "Hey, you. You're finally awake.
     -title: Ralof from Skyrim finally awake
 
-
+imageURL: /assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg
 ---
 ![The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty foresr. Ralof says "Hey, you. You're finally awake.](/assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg "Opening scene with Ralof from Skyrim.")
 
