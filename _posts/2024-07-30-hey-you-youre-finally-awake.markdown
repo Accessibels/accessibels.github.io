@@ -4,13 +4,15 @@ title:  "Hey, you. You're finally awake."
 date:   2024-07-30 22:16:42 +0100
 categories: first about accessibels
 tag: first about accessibels
-imgURL: "/assets/Square%20Logo.svg"
-imgALT: "Image link to article. Jerry the Grumpy Alien lands on a new planet. A digital painting."
-summary: "The second Accessibels blog ever! How exciting!"
+imgURL: "/assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg"
+imgALT: "The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty foresr. Ralof says "Hey, you. You're finally awake."
+summary: "The first Accessibels blog ever! How exciting!"
 
 
 
 ---
+![The opening scene from Skyrim. A Nord Prisoner named Ralof sits in a wagon talking to the player. They are being transported through a misty foresr. Ralof says "Hey, you. You're finally awake.](/assets/2024-07-30-hey-you-youre-finally-awake/Ralof%20Opening%20Scene.jpeg "Opening scene with Ralof from Skyrim.")
+
 # Hey, you. You're finally awake.
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
