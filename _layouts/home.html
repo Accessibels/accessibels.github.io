@@ -23,9 +23,18 @@
 
           <div id="main-content-right"> 
 
+            <p>
+              {{post.imageURL}}
+              {{post.imageALT}}
+
+              {{layout.imageURL}}
+              {{layout.imageALT}}
+
+            </p>
             <a href="{{post.url}}">
-              <img style="width:90%; border: solid black;" src="{{layout.imageURL}}" alt="{{layout.imageALT}}">
+              <img style="width:90%; border: solid black;" src="{{post.imageURL}}" alt="{{layout.imageALT}}">
             </a>
+
 
       
 
