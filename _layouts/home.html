@@ -50,6 +50,7 @@
                 <em>{{ post.date | date: '%B %d , %Y' }}</em>
               </p>
               {{ post.summary | strip_html | truncatewords: 30 }}
+              <br><br>
               <a href="{{post.url}}" title="Read {{post.title}}">Read More...</a>
     
           </h2>
