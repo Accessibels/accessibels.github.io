@@ -17,7 +17,7 @@ summary: "The first Accessibels blog ever! How exciting!"
 
 *"You were trying to study audio and accessibility, right? Walked right into that 'game developer' ambush, same as us, and that researcher over there."* 
 
-*"Damn you dipshit corporate overlords. Accessibility was awesome until you came along. A11ys were nice and proactive. If they hadn't been combating your tweets and poor business decisions, they could've designed that game and be halfway to 100% accessible. You there. You and me - we shouldn't be here. It's these profits the overlords want. We're all brothers and sisters in accessibility now, a11y."* 
+*"Damn you, dipshit corporate overlords. Accessibility was awesome until you came along. A11ys were nice and proactive. If they hadn't been combating your tweets and poor business decisions, they could've designed that game and be halfway to 100% accessible. You there. You and me - we shouldn't be here. It's these profits the overlords want. We're all brothers and sisters in accessibility now, a11y."* 
 
 -accessibiility Ralof and Lokir from the future (100% accurate quote)
 
