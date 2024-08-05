@@ -142,6 +142,34 @@ p, li {
   text-align: right
 }
 
+#post-content-home
+{
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: flex-start;
+  text-align: center;
+  border: solid black;
+  padding: 16px;
+}
+
+#post-content-left {
+  width: 30%;
+  text-align: left;
+  box-sizing: border-box;
+  padding: 16px
+}
+
+
+#post-content-right {
+  width: 70%;
+  box-sizing: border-box;
+  padding: 16px;
+  text-align: right
+}
+
 
 
 @media only screen and (max-width: 900px) {
@@ -168,6 +196,25 @@ p, li {
       width: 100%;
       text-align: center;
   }
+
+  #post-content-home {
+    flex-flow: column wrap;
+    align-content: center;
+    justify-content: center;
+    width: 100%
+}
+
+#post-content-left {
+    width: 100%;
+    text-align: center;
+
+}
+
+
+#post-content-right {
+    width: 100%;
+    text-align: center;
+}
 
 }
 
