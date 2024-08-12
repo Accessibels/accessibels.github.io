@@ -17,7 +17,10 @@ datatable: true
 
 
 <script>
-let table = new DataTable('#myTable');
+
+    window.boot.register('page-ready', () => {
+   $('#myTable').DataTable()
+})
 
 </script>
 
