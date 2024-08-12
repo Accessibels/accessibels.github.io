@@ -24,18 +24,21 @@ datatable: true
 <table id="myTable" class="display">
     <thead>
         <tr>
-            <th>Column 1</th>
-            <th>Column 2</th>
+            <th>Title</th>
+            <th>Format</th>
+            <th>Link</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Row 1 Data 1</td>
-            <td>Row 1 Data 2</td>
+            <td>Sound in Sea of Thieves</td>
+            <td>Video</td>
+            <td><a href="https://www.youtube.com/watch?v=G0vFNxng1q0">Link to Video</td>
         </tr>
         <tr>
-            <td>Row 2 Data 1</td>
-            <td>Row 2 Data 2</td>
+            <td>Luke's PhD Research</td>
+            <td>Website</td>
+            <td><a href="https://citesandsounds.com">Link to Website</a></td>
         </tr>
     </tbody>
 </table>
