@@ -27,7 +27,7 @@ datatable: true
             <th>Title</th>
             <th>Format</th>
             <th>Link</th>
-            <th>Tags<th>
+            <th>Tags</th>
         </tr>
     </thead>
     <tbody>
