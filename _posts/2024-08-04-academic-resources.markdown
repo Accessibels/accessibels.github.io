@@ -16,12 +16,6 @@ datatable: true
 ![Image Link to Post. A collage of posterised academic images featuring poster presentations and a graduate holding their dog at graduation. Text Reads 'Academic Resources'](/assets/2024-08-04-academic-resources/Post%20Photo.jpg "Graduate Collage")
 
 
-<script>
-    
-let table = new DataTable('#myTable');
-
-</script>
-
 
 
 
@@ -48,3 +42,9 @@ let table = new DataTable('#myTable');
 
 # References
 
+
+<script>
+    
+let table = new DataTable('#myTable');
+
+</script>
