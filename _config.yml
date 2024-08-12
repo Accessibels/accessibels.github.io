@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://accessibels.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: accessibels
 github_username:  accessibels
+paginate: 5
 
 # Build settings
 remote_theme: janessatran/laloyd
@@ -34,8 +35,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-paginate
-
-  paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
