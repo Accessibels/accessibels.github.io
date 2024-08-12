@@ -11,14 +11,20 @@ imageALT: Image Link to Post. A collage of posterised academic images featuring 
 
 datatable: true
 
+
 ---
 ![Image Link to Post. A collage of posterised academic images featuring poster presentations and a graduate holding their dog at graduation. Text Reads 'Academic Resources'](/assets/2024-08-04-academic-resources/Post%20Photo.jpg "Graduate Collage")
+
+<script src="./assets/js/jquery-3.7.1.min.js"></script>
 
 <script>
     $(document).ready( function () {
     $('#myTable').DataTable();
 } );
 </script>
+
+
+
 
 # Interactive Table
 
