@@ -33,7 +33,7 @@ datatable: true
         <tr>
             <td>Sound in Sea of Thieves</td>
             <td>Video</td>
-            <td><a href="https://www.youtube.com/watch?v=G0vFNxng1q0">Link to Video</td>
+            <td><a href="https://www.youtube.com/watch?v=G0vFNxng1q0">Link to Video</a></td>
         </tr>
         <tr>
             <td>Luke's PhD Research</td>
@@ -43,7 +43,6 @@ datatable: true
     </tbody>
 </table>
 
-# References
 
 
 <script>
