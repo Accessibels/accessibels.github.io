@@ -27,6 +27,7 @@ datatable: true
             <th>Title</th>
             <th>Format</th>
             <th>Link</th>
+            <th>Tags<th>
         </tr>
     </thead>
     <tbody>
@@ -34,11 +35,13 @@ datatable: true
             <td>Sound in Sea of Thieves</td>
             <td>Video</td>
             <td><a href="https://www.youtube.com/watch?v=G0vFNxng1q0">Link to Video</a></td>
+            <td>Game Audio, Localisation, Blind Accessibility</td>
         </tr>
         <tr>
             <td>Luke's PhD Research</td>
             <td>Website</td>
             <td><a href="https://citesandsounds.com">Link to Website</a></td>
+            <td>Academia, Study, Publication</td>
         </tr>
     </tbody>
 </table>
