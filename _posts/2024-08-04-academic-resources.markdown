@@ -17,10 +17,8 @@ datatable: true
 
 
 <script>
-
-    window.boot.register('page-ready', () => {
-   $('#myTable').DataTable()
-})
+    
+let table = new DataTable('#myTable');
 
 </script>
 
